@@ -11,7 +11,7 @@ The materials for each lab meeting are in the *lab_x* folder.
 
 -------
 > Launch an interactive session with this module using the Binder service:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ggruszczynski/CFDPython/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ggruszczynski/numerical_methods/HEAD)
 
 # CFD Python - the origin
 
